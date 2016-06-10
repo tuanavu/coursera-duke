@@ -1,0 +1,595 @@
+	<!DOCTYPE html>
+<html lang="en">
+	<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+        <!-- BEGIN: writeHead() -->
+        
+		<title>General Social Survey (GSS), Cumulative Dataset - Statistics 101  - LibGuides at Duke University</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="robots" content="noarchive" />
+<!--AUTO GENERATED DUBLIN CORE METADATA-->
+<meta name="DC.Title" content="LibGuides: Statistics 101 : General Social Survey (GSS), Cumulative Dataset" />
+<meta name="DC.Creator" content="Joel Herndon" />
+<meta name="DC.Subject" content="" />
+<meta name="DC.Description" content="Selected Resources for students in Statistics 101 General Social Survey" />
+<meta name="DC.Publishers" content="Duke University" />
+<meta name="DC.Rights" content="Copyright Duke University 2016" />
+<meta name="DC.Language" content="en" />
+<meta name="DC.Identifier" scheme="URI" content="http://guides.library.duke.edu/c.php?g=289704&p=1930833" />
+<meta name="DC.Date.Created" scheme="ISO8601" content="Sep 17, 2012" />
+<meta name="DC.Date.Modified" scheme="ISO8601" content="Dec 8, 2015" />
+
+		<link rel="stylesheet" href="/web/jquery/css/1.8.24_themes_base_jquery-ui.css" /><link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" />
+			<link rel="stylesheet" href="/web/bootstrap-accessibility-plugin/css/bootstrap-accessibility_1.0.3.css" />
+		<link rel="stylesheet" href="/web/css1.12.27/springshare.public.min.css" />
+		<!--[if lt IE 9]>
+				<link rel="stylesheet" href="/web/css1.12.27/springshare.public.ie8hacks.css" />
+		<![endif]-->
+		<link rel="stylesheet" href="/web/css1.12.27/springshare.common.min.css" />
+		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
+		<script type="text/javascript" src="/web/jquery/js/1.12.1_jquery.min.js"></script>
+		<script type="text/javascript" src="/web/jquery/js/1.9.2_jquery-ui.min.js"></script><script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+			<script type="text/javascript" src="/web/bootstrap-accessibility-plugin/js/bootstrap-accessibility_1.0.3.min.js"></script>
+		<script type="text/javascript" src="/web/js1.12.27/springshare.public.min.js"></script>
+		<script type="text/javascript" src="/web/js1.12.27/springshare.common.min.js"></script>
+		<style>/* =========================================== */
+                        /* bootstrap overrides */
+                        /* =========================================== */
+                        #s-lg-tabs-container .nav-tabs > li > a,
+                        #s-lg-tabs-container .nav-pills > li > a {
+                            border: 1px solid transparent;
+                                -webkit-border-radius: 4px 4px 0 0;
+                                -moz-border-radius: 4px 4px 0 0;
+                                border-radius: 4px 4px 0 0;
+                            background-color: #eeeeee;
+                            color: #333333;
+                            font-weight: bold;
+                            padding: 4px 15px;
+                        }
+                        #s-lg-tabs-container .nav-tabs {
+                            border-bottom: 0;
+                        }
+                        #s-lg-tabs-container .nav-tabs > li#s-lg-admin-tab-add > a {
+                            -webkit-border-radius: 4px 4px 0 0;
+                            -moz-border-radius: 4px 4px 0 0;
+                            border-radius: 4px 4px 0 0;
+                        }
+                        #s-lg-tabs-container .nav-tabs > li > a:hover,
+                        #s-lg-tabs-container .nav-pills > li > a:hover {
+                            border: 1px solid transparent;
+                                -webkit-border-radius: 4px 4px 0 0;
+                                -moz-border-radius: 4px 4px 0 0;
+                                border-radius: 4px 4px 0 0;
+                            background-color: #053482;
+                            color: #fff;
+                        }
+                        #s-lg-tabs-container .nav-tabs > .active > a,
+                        #s-lg-tabs-container .nav-pills > .active > a {
+                            color: #fff;
+                            cursor: default;
+                            background-color: #053482;
+                            border: 1px solid transparent;
+                                -webkit-border-radius: 4px 4px 0 0;
+                                -moz-border-radius: 4px 4px 0 0;
+                                border-radius: 4px 4px 0 0;
+                            border-bottom-color: transparent;
+                            font-weight: bold;
+                        }
+                        #s-lg-tabs-container .nav-tabs > .active > .s-lg-subtab-ul > .active > a {
+                            color: #fff;
+                            cursor: default;
+                            background-color: #053482;
+                            border-bottom-color: transparent;
+                        }
+                        #s-lg-tabs-container .nav-tabs > .active > a:hover, 
+                        #s-lg-tabs-container .nav-pills > .active > a:hover {
+                            color: #fff;
+                            cursor: pointer;
+                            background-color: #053482;
+                            border: 1px solid transparent;
+                                -webkit-border-radius: 4px 4px 0 0;
+                                -moz-border-radius: 4px 4px 0 0;
+                                border-radius: 4px 4px 0 0;
+                            border-bottom-color: transparent;
+                            font-weight: bold;
+                        }
+                        #s-lg-tabs-container .nav .dropdown-toggle .caret {
+                            border-top-color: #e1e1e1;
+                        }
+                        
+                        #s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-drop {
+                            border-radius: 0 4px 0 0;
+                            padding: 4px 6px 4px 3px;
+                            border-left: 1px solid transparent;
+                        }
+                        #s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-drop:hover {
+                            border-radius: 0 4px 0 0;
+                            border-left: 1px solid #bbb;
+                            padding: 4px 6px 4px 3px;
+                        }
+                        #s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-top-link,
+                        #s-lg-tabs-container .nav-tabs > li > a.s-lg-tab-top-link:hover {
+                            border-radius: 4px 0 0 0;
+                            font-weight: bold;
+                            padding: 4px 5px 4px 10px;
+                        }
+                        .nav-tabs > li > a.s-lg-tab-top-link {
+                            margin-right: 0px;
+                        }
+
+                        #s-lg-tabs-container .nav-pills > li > a.s-lg-tab-drop {
+                            border-radius: 0 4px 0 0;
+                            padding: 4px 8px 4px 8px;
+                            border-left: 1px solid transparent;
+                            position: absolute;
+                            right: 0;
+                        }
+                        #s-lg-tabs-container .nav-pills > li > a.s-lg-tab-drop:hover {
+                            border-radius: 0 4px 0 0;
+                            border-left: 1px solid #bbb;
+                            padding: 4px 8px 4px 8px;
+                        }
+                        #s-lg-tabs-container .nav-pills > li > a.s-lg-tab-top-link,
+                        #s-lg-tabs-container .nav-pills > li > a.s-lg-tab-top-link:hover {
+                            width: 100%;
+                            float: left;
+                            border-radius: 4px 0 0 0;
+                            font-weight: bold;
+                            padding: 4px 15px 4px 15px;
+                        }#s-lg-guide-tabs-title-bar { border-top: 1px solid #053482; }
+                    .s-lib-box {
+                        border-color: #cccccc;
+                        border-width: 1px;
+                        box-shadow: 0 8px 6px -6px #AAAAAA;border-radius: 4px 4px 4px 4px;
+                        background-color: #fff;
+                    }
+                    .s-lib-box-std .s-lib-box-title {
+                        background-color: #f1f1f1;background-image: none;
+                        color: #333333;
+                        border-bottom: 1px solid #cccccc;
+                    }
+                    .s-lib-box .s-lib-box-title {
+                        background-color: #f1f1f1;background-image: none;
+                        color: #333333;
+                        border-bottom: 1px solid #cccccc;;
+                        border-radius: 3px 3px 0px 0px;
+                    }
+                    .s-lib-box .s-lg-box-footer {
+                    border-radius: 0px 0px 3px 3px;
+                    }</style>
+		<!-- BEGIN: CUSTOM HEAD SYSTEM JS/CSS -->
+		<link rel="shortcut icon" href="http://library.duke.edu/favicon.ico" type="image/vnd.microsoft.icon" /><link href="http://library.duke.edu/sites/all/themes/madlib/css/madlib-flat-footer.css" media="screen" rel="stylesheet" type="text/css"/><style>#index_php .lgsearch {display: none;} #madlib-footer { margin-top: 0; width: 100%; } #s-lg-tabs-container { border-bottom: 3px solid #053482; } #s-lg-tabs-container .nav-tabs > li > a { border: 1px solid #cccccc; } .breadcrumb > li + li::before { content: ">"; } #s-lg-guide-search-box { display: none; }</style><script type="text/javascript" src="//s3.amazonaws.com/libapps/sites/353/include/dul-breadcrumb.js"></script><script src="//library.duke.edu/masthead/load-masthead.js.php?width=1170&fixed=true"></script>
+		<!-- END: CUSTOM HEAD SYSTEM JS/CSS -->
+		<!-- BEGIN: CUSTOM HEAD GUIDE JS/CSS -->
+		
+		<!-- END: CUSTOM HEAD GUIDE JS/CSS -->
+		
+		<script src="http://guides.library.duke.edu/sa.php?site_id=353"></script>
+		<script>
+			springSpace.Common = springSpace.Common || { };
+
+			springSpace.Common.constant = {
+					PROCESSING: {
+						ACTION_DISPLAY_POLL: 159
+					}
+			};
+			springSpace.Common.baseURL = "http://guides.library.duke.edu/";
+			/*
+			springSpace.guidePublicObj = new springSpace.guidePublic.GuidePublic({
+				script_name: "/c.php",
+				guide_id: 289704,
+				page_id: 1930833,
+				constant: {
+					PROCESSING: {
+
+					},
+					CONTENT: {
+						CONTENT_BOOKS: 5
+					}
+				}
+			});
+			*/
+			// Hide guide attributes and subjects/tags if theyre empty.
+			jQuery(function () {
+				//jQuery("#s-lg-guide-header-subjects").hide();
+				//jQuery("#s-lg-guide-header-tags").hide();
+			});
+
+			handleScroll=function() {
+				var target_elt = "";
+				var anchor = window.location.hash.substring(1);
+
+				if (jQuery.isNumeric(anchor)) {
+					xhr = jQuery.ajax({
+						async: false,
+						url: "/content_process.php",
+						type: "POST",
+						dataType: "json",
+						data: {
+							action: 562,
+							anchor: anchor
+						},
+						success: function(response, textStatus, jqXHR) {
+							if ((response.data.box_id != 0) && jQuery("#s-lg-box-" + response.data.box_id)) {
+								target_elt = "#s-lg-box-" + response.data.box_id;
+							}
+						},
+						error: function (jqXHR, textStatus, errorThrown) {
+
+						}
+					});
+				}
+				else if (false) {
+					target_elt = "#s-lg-page-section-1930833";
+				}
+
+				if (target_elt != "") {
+					jQuery("html, body").animate({ scrollTop: jQuery(target_elt).offset().top }, 750);
+					if (jQuery(this).scrollTop() > 220) {
+						jQuery("#s-lib-scroll-top").fadeIn(750);
+					}
+				}
+			}
+	   </script>
+	   <script>
+			// Enable tooltips.
+			jQuery(function () {
+				try {
+					springSpace.UI.initPopOvers();
+				} catch (e) { }
+			});springSpace.springTrack.init({_st_site_id: '353',_st_guide_id: '289704',_st_page_id: '1930833'});
+			jQuery(function() {springSpace.springTrack.trackPage({_st_type_id: '1',_st_guide_id: '289704',_st_page_id: '1930833'});
+			});
+			jQuery(document).ready(function() {
+				handleScroll();
+			});
+	   </script>
+		<!-- BEGIN: Analytics code --><script>  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');  ga('create', 'UA-6769558-3', 'auto');  ga('send', 'pageview');</script><!-- END: Analytics code -->        <!-- END: writeHead() -->
+        	</head>
+		<body class="s-lg-guide-body">
+		<a id="s-lg-public-skiplink" class="alert-info" href="#s-lg-guide-main">Skip to main content</a>                <!-- BEGIN: Page Header -->
+        <div id="dul-masthead-filler" style="width: 100%; text-align: center;">		<div class="dul-masthead-wrapper" style="height: 105px; width: 100%; max-width: 1170px; background-color:#053482; margin: 0 auto; margin-bottom: -2px;">				<a href="http://library.duke.edu"><img src="//library.duke.edu/masthead/img/logo.png" alt="Duke University Libraries" id="dul-masthead-logo" style="float: left; margin: 20px;"></a>			</div>	</div>        <!-- END: Page Header -->
+        <!-- BEGIN: Guide Info Header -->
+        <div id="s-lg-guide-header" class="container s-lib-header s-lib-side-borders">
+            <div id="s-lib-bc">
+                
+			<ol id="s-lib-bc-list" class="breadcrumb">
+				
+					<li id="s-lib-bc-customer">
+						<a title="All Guides"  href="http://library.duke.edu/research/guides">All Guides
+						</a>
+					</li>
+					<li id="s-lib-bc-site">
+						<a title="LibGuides"  href="http://guides.library.duke.edu">LibGuides
+						</a>
+					</li>
+					<li id="s-lib-bc-guide">
+						<a title="Statistics 101 "  href="http://guides.library.duke.edu/stat101">Statistics 101 
+						</a>
+					</li>
+					<li id="s-lib-bc-page" class="active">General Social Survey (GSS), Cumulative Dataset					
+					</li>
+			</ol>            </div>
+			<div class="pull-right">
+				<div id="s-lg-guide-header-search">
+					
+				<div id="s-lg-guide-search-box">
+					<form role="search" id="s-lg-guide-search-form" action="http://guides.library.duke.edu/srch.php" method="GET">
+						<div class="input-group input-group-sm">
+							<input type="text" id="s-lg-guide-search-terms" name="q" class="form-control" placeholder="Enter Search Words">
+							<label class="sr-only" for="s-lg-guide-search-terms">Enter Search Words</label>
+							<input type="hidden" name="guide_id" value="289704" />
+							<span class="input-group-btn">
+								<button class="btn btn-default" type="submit">Search</button>
+							</span>
+						</div>
+					</form>
+				</div>				</div>
+							</div>
+            <div id="s-lg-guide-header-info">
+                <h1 id="s-lg-guide-name">Statistics 101 : General Social Survey (GSS), Cumulative Dataset</h1>
+                <div id="s-lg-guide-desc-container">
+                    <span id="s-lg-guide-description">Selected Resources for students in Statistics 101</span>
+                </div>
+            </div>
+        </div>
+        <!-- END: Guide Info Header -->
+        <div id="s-lg-tabs-container" class="container s-lib-side-borders pad-top-med">
+            <div id="s-lg-guide-tabs" class="tabs">
+                <ul class="nav nav-tabs split-button-nav">
+                    
+				<li role="presentation" >
+					<a 	
+						title="" 
+						class="" 
+						href="/c.php?g=289704&p=1930832" 
+					>
+						<span>Introduction</span>
+					</a>
+				</li>
+				<li role="presentation" >
+					<a 	
+						title="Data and Visualization Services Collections Page" 
+						class="" 
+						href="/c.php?g=289704&p=1930836" 
+					>
+						<span>Data & Visualization Services Collections Page</span>
+					</a>
+				</li>
+				<li role="presentation" >
+					<a 	
+						title="American National Election Study (ANES), 2012 Survey" 
+						class="" 
+						href="/c.php?g=289704&p=1930835" 
+					>
+						<span>American National Election Study (ANES), 2012 Survey</span>
+					</a>
+				</li>
+				<li role="presentation"  class="active">
+					<a 	
+						title="General Social Survey" 
+						class="active" 
+						href="/c.php?g=289704&p=1930833" 
+					>
+						<span>General Social Survey (GSS), Cumulative Dataset</span>
+					</a>
+				</li>
+				<li role="presentation" >
+					<a 	
+						title="A subset of the World Values Survey Data formatted for R" 
+						class="" 
+						href="/c.php?g=289704&p=1930837" 
+					>
+						<span>World Values Survey</span>
+					</a>
+				</li>
+				<li role="presentation" >
+					<a 	
+						title="" 
+						class="" 
+						href="/c.php?g=289704&p=1930834" 
+					>
+						<span>Missing Values</span>
+					</a>
+				</li>
+				<li role="presentation" >
+					<a 	
+						title="" 
+						class="" 
+						href="/c.php?g=289704&p=1930838" 
+					>
+						<span>Behavioral Risk Factor Surveillance System, 2013</span>
+					</a>
+				</li>                </ul>
+            </div>
+        </div>
+        <div id="s-lg-guide-tabs-title-bar" class="container s-lib-side-borders"></div>
+        <!-- BEGIN: Guide Content -->
+        <div id="s-lg-guide-main" class="container s-lib-main s-lib-side-borders">
+            			
+				<div class="row s-lg-row">
+    <div id="s-lg-col-126" class="col-md-12">
+        <div class="s-lg-col-boxes">
+        </div>
+    </div>
+				
+</div>
+				<div class="row s-lg-row">
+    <div id="s-lg-col-1" class="col-md-9">
+        <div class="s-lg-col-boxes">
+							<div id="s-lg-box-wrapper-6940657" class="s-lg-box-wrapper-6940657">
+					<div id="s-lg-box-5901630-container" class="s-lib-box-container">
+						<div id="s-lg-box-5901630" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Introduction
+                                </h2>
+							<div id="s-lg-box-collapse-5901630" >
+								<div class="s-lib-box-content">
+									
+			<div id="s-lg-content-11681885" class="  clearfix">
+				<p>The <a href="http://www3.norc.org/GSS+Website/" target="_blank">General Social Survey</a>&nbsp;(GSS) contains both a standard core of demographic, behavioral, and attitudinal questions, and a second group of questions on special topics that are not asked every year. &nbsp;This survey has been periodically conducted in the United States since 1972, and the cumulative dataset will provide respondents from all survey years.</p>
+<p><a href="http://library.duke.edu/data/duke-only/stats101/gss.zip" target="_blank"><strong>A subset of the GSS is available here as a ZIP archive</strong></a>. &nbsp;This subset mostly includes only questions that were included every year or almost every year. &nbsp;The ZIP archive contains the dataset in both text file and R Workspace formats, a codebook written for this subset in markdown, and an HTML version of the codebook. &nbsp;<strong>All missing values are denoted by NA in the dataset,</strong></p>
+<p>You may also choose and download alternative variables by using the&nbsp;<a href="http://sda.berkeley.edu/sdaweb/analysis/?dataset=gss12" target="_blank">Survey Documentation and Analysis</a>&nbsp;interface, instructions to which are provided below..</p>
+<p></p>
+		   </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div>
+							<div id="s-lg-box-wrapper-6940658" class="s-lg-box-wrapper-6940658">
+					<div id="s-lg-box-5906102-container" class="s-lib-box-container">
+						<div id="s-lg-box-5906102" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">GSS Survey Abstract
+                                </h2>
+							<div id="s-lg-box-collapse-5906102" >
+								<div class="s-lib-box-content">
+									
+			<div id="s-lg-content-11687128" class="  clearfix">
+				<p>[Excerpted from the&nbsp;<a href="http://www.norc.org/Research/Projects/Pages/general-social-survey.aspx">GSS project description</a>]</p>
+<p>Since 1972, the General Social Survey (GSS) has been monitoring societal change and studying the growing complexity of American society. The GSS aims to gather data on contemporary American society in order to monitor and explain trends and constants in attitudes, behaviors, and attributes; to examine the structure and functioning of society in general as well as the role played by relevant subgroups; to compare the United States to other societies in order to place American society in comparative perspective and develop cross-national models of human society; and to make high-quality data easily accessible to scholars, students, policy makers, and others, with minimal cost and waiting.<br /><br />GSS questions cover a diverse range of issues including national spending priorities, marijuana use, crime and punishment, race relations, quality of life, confidence in institutions, and sexual behavior.</p>
+<p><br /><a title="GSS Cumulative File (1972-2012)" href="http://library.duke.edu/data/duke-only/stats101/gss.zip">GSS Cumulative File Subset (1972-2012)</a></p>
+<p></p>
+		   </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div>
+							<div id="s-lg-box-wrapper-6940659" class="s-lg-box-wrapper-6940659">
+					<div id="s-lg-box-5901631-container" class="s-lib-box-container">
+						<div id="s-lg-box-5901631" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">The GSS Through the Survey Documentation and Analysis Web Site
+                                </h2>
+							<div id="s-lg-box-collapse-5901631" >
+								<div class="s-lib-box-content">
+									
+			<div id="s-lg-content-11681887" class="  clearfix">
+				<p>If you wish to download your own variables, follow these steps below.</p>
+<table border="0">
+<tbody>
+<tr>
+<td>
+<ul>
+<li>First,&nbsp;load the <a href="http://sda.berkeley.edu/sdaweb/analysis/?dataset=gss12" target="_blank"><font color="#2954d1">Survey Documentation and Analysis</font></a> interface.&nbsp; Once loaded, mouse over Codebooks at the top and click "Standard Codebook."&nbsp; See the <a href="http://lgimages.s3.amazonaws.com/data/imagemanager/27699/sda_1.jpg" target="_blank">first picture to the right</a> for a demonstration.</li>
+</ul>
+</td>
+<td><a href="http://sda.berkeley.edu/cgi-bin/hsda?harcsda+gss10" target="_blank"><img style="float: right;" src="http://lgimages.s3.amazonaws.com/data/imagemanager/27699/sda_1.jpg" width="220" height="140" /></a></td>
+</tr>
+<tr>
+<td colspan="2"><hr /></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>In the next window, click the "Sequential Variable List" to the left side of the window.&nbsp; The main portion of the window will fill with categories of variables, which you can see in the <a href="http://lgimages.s3.amazonaws.com/data/imagemanager/27699/sda_2.jpg" target="_blank">next picture to the right</a>.&nbsp; Note that when you see "19xx Module," you are looking at a series of questions only asked in a particular year.&nbsp; This will sharply reduce the number of individuals for whom you will have data and may present problems.&nbsp; <br /><br /><br />Clicking any variable category will display all of the questions and variable names present for that category.&nbsp; Clicking on any of the linked variable names will provide you with the full question, the possible responses to the question, and the number of observations answering the question by possible response.</li>
+</ul>
+</td>
+<td><a href="http://lgimages.s3.amazonaws.com/data/imagemanager/27699/sda_2.jpg" target="_blank"><img style="float: right;" src="http://lgimages.s3.amazonaws.com/data/imagemanager/27699/sda_2.jpg" width="220" height="174" /></a></td>
+</tr>
+<tr>
+<td colspan="2"><hr /></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>When you have identified a variable of interest, write down the variable name, which is highlighted in pink when looking at the full record.&nbsp; <br /><br /><br />Remember, you will need a continuous variable.&nbsp; There are a few of these, but most of those that can potentially be treated as a continuous variable are, in fact, ordinal.&nbsp; An ordinal variable is a categorical variable with a distinct, logical order to the response.&nbsp; However, unlike a continuous variable, the categories are not necessarily evenly spaced.&nbsp; An example of this type of variable is <a href="http://sda.berkeley.edu/D3/GSS10/Doc/gs10.htm" target="_blank">respondents income in 2006 dollars</a>.&nbsp; Be certain to check before treating these as continuous variables.<br /><br /><br />Finally, as you look for variables, note the sample sizes in the details for each variable.&nbsp; It's safest to have thousands of observations that answer the question (answers that are not "IAP," "DK," "NA," and similar non-responses).&nbsp; This is to ensure that you have enough observations that answer ALL of the questions&nbsp;in which&nbsp;you have an interest.&nbsp; Last, be certain to write down those <strong>values you wish to keep</strong>, which exclude those non-responses.&nbsp; For example, for the variable EDUC, I would write down 0-20, which are the valid repsonses for years of education.</li>
+</ul>
+<br />
+<ul>
+<li>Once you've identified the variables of interest, hit your browser's back button until you've returned to the initial screen before the codebook.&nbsp; Now,&nbsp;mouse over&nbsp;the "Download" button at the top and click "Customized Subset."&nbsp; On the next screen you must do two things.&nbsp; First at the top, change the "Select FILE(S) to construct option to "CSV file."&nbsp; Second, type in the variable names to download, each separated from the next by a space.&nbsp; My example can be seen to the right, <a href="http://lgimages.s3.amazonaws.com/data/imagemanager/27699/sda_3a.jpg" target="_blank">and here</a>.&nbsp; <br /><br /><br />Also, there is a field called "Select CASES to include."&nbsp; This is the point where you specify the answers you want in the dataset and which values you will exclude.&nbsp; For each variable, type in the name, a left paretheses (no space), the range of values you wish to keep, and a right parentheses.&nbsp; Separate variable ranges by a single comma.<br /><br /><br /><span style="text-decoration: underline;">For example</span>, I can select specific education and income responses in order to exclude all non-responses...<br /><strong><em>educ(0-20),rincom06(1-25)</em></strong><br /><br />When done, click the continue button at the very bottom.&nbsp; On th next page, click the "Create the Files" button.</li>
+</ul>
+<br />
+<ul>
+<li>When done, a new page will appear with two links to two files, the data itself, and a codebook for the variables you've selected.&nbsp; You want BOTH.&nbsp; Right click on the "Data file," click "Save Target As," and provide a name while saving the file as a text file.&nbsp; Do the same for the codebook.</li>
+</ul>
+<br />
+<ul>
+<li>The data are ready for import into R or Stata.&nbsp; You will notice that a new variable, CASEID, is in your data.&nbsp; Keep this, it is a unique number for each observation, like a name.<br /><br />Keep the codebook, because it will tell you what each numbered response means for each of your questions.</li>
+</ul>
+</td>
+<td><a href="http://lgimages.s3.amazonaws.com/data/imagemanager/27699/sda_3a.jpg" target="_blank"><img style="float: right;" src="http://lgimages.s3.amazonaws.com/data/imagemanager/27699/sda_3a.jpg" width="220" height="212" /></a></td>
+</tr>
+<tr>
+<td colspan="2"><hr /></td>
+</tr>
+</tbody>
+</table>
+		   </div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div>
+        </div>
+    </div>
+    <div id="s-lg-col-2" class="col-md-3">
+        <div class="s-lg-col-boxes">
+							<div id="s-lg-box-wrapper-6929046" class="s-lg-box-wrapper-6929046">
+					<div id="s-lg-box-5893938-container" class="s-lib-box-container">
+						<div id="s-lg-box-5893938" class="s-lib-box s-lib-box-std">
+							<h2 class="s-lib-box-title">Data and Visualization Services
+                                </h2>
+							<div id="s-lg-box-collapse-5893938" >
+								<div class="s-lib-box-content">
+									
+			<div id="s-lib-profile-45476" class="s-lib-profile-container">
+				<div id="s-lib-profile-image-45476" class="s-lib-profile-div s-lib-profile-center s-lib-profile-image"><a href="http://guides.library.duke.edu/prf.php?account_id=33365">						
+					<img src="//s3.amazonaws.com/libapps/accounts/33365/profiles/45476/jh.jpg" alt="Profile Image" /></a>
+				</div>
+				<div id="s-lib-profile-name-45476" class="s-lib-profile-div s-lib-profile-center s-lib-profile-name">Joel Herndon
+				</div>
+				<div id="s-lib-profile-email-45476" class="s-lib-profile-div s-lib-profile-center s-lib-profile-email"><a title="askdata@duke.edu" href="mailto:askdata@duke.edu" class="label label-info" style="font-size:1.6em;">Email Me</a>
+				</div>
+				<div id="s-lib-profile-widget-la-45476" class="s-lib-profile-div s-lib-profile-widget-la">
+					<div class="s-lib-profile-widget">
+					</div>
+				</div>
+				<div id="s-lib-profile-widget-lc-45476" class="s-lib-profile-div s-lib-profile-widget-lc">
+					<div class="s-lib-profile-widget">
+					</div>
+				</div>
+				<div id="s-lib-profile-widget-other-45476" class="s-lib-profile-div s-lib-profile-widget-other">
+					<div class="s-lib-profile-widget">
+					</div>
+				</div>
+				<div id="s-lib-profile-contact-45476" class="s-lib-profile-div s-lib-profile-contact"><strong>Contact:</strong><a title="Website / Blog" href="http://library.duke.edu/data"><i class="fa fa-bookmark fa-lg"><span class="sr-only">Website / Blog Page</span></i></a>
+				</div>
+				<div id="s-lib-profile-social-45476" class="s-lib-profile-div s-lib-profile-social">
+				</div>
+				<div id="s-lib-profile-subjects-45476" class="s-lib-profile-div s-lib-profile-subjects"><strong>Subjects:</strong><a href="http://guides.library.duke.edu/sb.php?subject_id=58559">Social Sciences</a>
+				</div>
+			</div>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+							</div>
+        </div>
+    </div>
+				
+</div>
+				<div class="row s-lg-row">
+    <div id="s-lg-col-127" class="col-md-12">
+        <div class="s-lg-col-boxes">
+        </div>
+    </div>
+				
+</div>            
+				<ul id="s-lg-page-prevnext" class="pager s-lib-hide">
+					<li class="previous">
+					<a href="/c.php?g=289704&p=1930835">&lt;&lt; <strong>Previous:</strong> American National Election Study (ANES), 2012 Survey</a>
+					</li>
+					<li class="next">
+					<a href="/c.php?g=289704&p=1930837"><strong>Next:</strong> World Values Survey &gt;&gt;</a>
+					</li>
+				</ul>        </div>
+        <!-- END: Guide Content -->
+        <!-- BEGIN: Page Footer -->
+        <div id="s-lib-footer-public" class="s-lib-footer footer container  s-lib-side-borders">
+            <div id="s-lg-guide-header-meta" class="pad-top-sm pad-left-med clearfix">
+                <ul id="s-lg-guide-header-attributes" class="">
+                    <li id="s-lg-guide-header-updated" class="s-lg-h-separator">
+                        <span class="s-lg-guide-label">Last Updated:</span> <span class="s-lg-text-greyout">Dec 8, 2015 4:01 AM</span>                    </li>
+                    <li id="s-lg-guide-header-url" class="s-lg-h-separator">
+                        <span class="s-lg-guide-label">URL:</span> <span class="s-lg-text-greyout">http://guides.library.duke.edu/stat101</span>                    </li>
+                    <li id="s-lg-guide-print-url">
+                        <a href="javascript: window.print();"><i class="fa fa-print" title="Print Page"></i> Print Page</a>                    </li>
+                </ul>
+                <div id="s-lib-footer-login-link" class="pull-right pad-right-med">
+                    <a href="https://duke.libapps.com/libapps/login.php?target=admin_c.php%253Fg%253D289704%2526p%253D1930833&site_id=353">Login to LibApps</a>                </div>
+            </div>
+            <div class="pad-bottom-sm clearfix">
+                <div id="s-lib-footer-support-link" class="pull-right pad-right-med">
+                    <a href="mailto:asklib@duke.edu">Report a problem.</a> 
+                </div>
+                <div id="s-lg-guide-header-subjects" class="pad-top-sm pad-left-med pad-right-med pull-left">
+                                    </div>
+                <div id="s-lg-guide-header-tags" class="pad-top-sm pad-left-med">
+                    
+                    <span class="s-lg-guide-label">Tags: </span>
+                    <span class="s-lg-small bold"><a href="http://guides.library.duke.edu/srch.php?tag=courseguidespring14&default_lg=1">courseguidespring14</a>, <a href="http://guides.library.duke.edu/srch.php?tag=coursera&default_lg=1">coursera</a>, <a href="http://guides.library.duke.edu/srch.php?tag=data&default_lg=1">data</a>, <a href="http://guides.library.duke.edu/srch.php?tag=statistics&default_lg=1">statistics</a></span>
+                                    </div>
+            </div>
+        </div>
+        <!-- END: Page Footer -->
+        
+			<div id="s-lib-scroll-top" title="Back to Top">
+				<span class="fa-stack fa-lg">
+				  <i class="fa fa-square-o fa-stack-2x"></i>
+				  <i class="fa fa-angle-double-up fa-stack-1x" style="position:relative; bottom:2px;"></i>
+				</span>
+			</div>        <div id="s-lib-alert" title="">
+                            <div id="s-lib-alert-content"></div>
+                       </div>        
+                <!-- BEGIN: Custom Footer -->
+                
+<div class="container" style="padding: 0;"> <!-- Flat masthead adapted from madlib Drupal theme. Not dependent on Bootstrap, megamenu.js, 960.gs, or other frameworks --><!-- begin flat footer -->	<div id="madlib-footer">	     <div id="region-footer-devillogo">		<a href="http://library.duke.edu"><img alt="Duke University Libraries" src="http://library.duke.edu/sites/all/themes/madlib/images/devillogo-60pct-60.png"></a>	</div>	<div id="region-footer-contact">		<h3><a href="http://library.duke.edu/about/contact">Contact Us</a></h3>		<div class="perkinsAddress">		411 Chapel Drive<br>Durham, NC 27708<br><div style="margin-top:5px">(919) 660-5870<br><span class="font-size:7px;">Perkins Library Service Desk</span></div>		</div>	</div>	<div id="region-footer-services">		<h3><a href="http://library.duke.edu/services">Services for...</a></h3>		<ul class="services-col1">			<li><a href="http://library.duke.edu/services/faculty">Faculty & Instructors</a></li>			<li><a href="http://library.duke.edu/services/graduate">Graduate Students</a></li>			<li><a href="http://library.duke.edu/services/undergraduate">Undergraduate Students</a></li>			<li><a href="http://library.duke.edu/services/international">International Students</a></li>		</ul>		<ul class="services-col2">			<li><a href="http://library.duke.edu/services/alumni">Alumni</a></li>			<li><a href="http://library.duke.edu/services/donors">Donors</a></li>				<li><a href="http://library.duke.edu/services/visitors">Visitors</a></li>											<li><a href="http://library.duke.edu/services/disabilities">Patrons with Disabilities</a></li>			</ul>					</div>	<div id="region-footer-social">		<div class="socialMediaIconsBig">			<a href="https://twitter.com/DukeLibraries"><img alt="Twitter" src="http://library.duke.edu/sites/all/themes/madlib/images/icons/twitter24.png"/></a>			<a href="https://www.facebook.com/dukelibraries"><img alt="Facebook" src="http://library.duke.edu/sites/all/themes/madlib/images/icons/facebook24.png"/></a>			<a href="http://www.youtube.com/user/DukeUnivLibraries"><img alt="Youtube" src="http://library.duke.edu/sites/all/themes/madlib/images/icons/youtube24.png"/></a>			<a href="http://www.flickr.com/photos/dukeunivlibraries/"><img alt="Flickr" src="http://library.duke.edu/sites/all/themes/madlib/images/icons/flickr24.png"/></a>			<a href="http://www.pinterest.com/dukelibraries/"><img alt="Pinterest" src="http://library.duke.edu/sites/all/themes/madlib/images/icons/pinterest24.png"/></a>			<a href="http://blogs.library.duke.edu/"><img alt="RSS" src="http://library.duke.edu/sites/all/themes/madlib/images/icons/rss24.png"/></a>		</div>		<ul class="social-col">			<li><a href="http://library.duke.edu/about/reuse-attribution">Re-use & Attribution</a> / <a href="http://library.duke.edu/about/privacy">Privacy</a></li>			<li><a href="http://library.duke.edu/support">Support the Libraries</a></li>		</ul>		<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nc-sa/3.0/80x15.png" title="This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License"></a>	</div><div id="region-footer-dukelogo">		<a href="http://duke.edu"><img src="http://library.duke.edu/sites/all/themes/madlib/images/dukelogo_vert_60pct_140.png" class="dukeLogo" alt="Duke University"></a>	</div>	</div>	<!-- end flat footer -->  </div>
+		<!-- END: Custom Footer -->
+	</body>
+	</html>
+	

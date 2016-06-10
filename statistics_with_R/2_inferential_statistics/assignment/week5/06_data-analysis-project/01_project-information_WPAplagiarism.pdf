@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width" />
+<link rel="shortcut icon" href="http://wpacouncil.org/sites/all/themes/professional_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" type="application/rss+xml" title="Front page feed" href="http://wpacouncil.org/news.xml" />
+<link rel="shortlink" href="/node/9" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/positions/WPAplagiarism.pdf" />
+<title>Defining and Avoiding Plagiarism: The WPA Statement on Best Practices | Council of Writing Program Administrators</title>
+<meta name="google-site-verification" content="ZxaKZGnL7cNE8joDePnUutHnEX1vfcwohsywqbJywHk" >
+<link href='http://fonts.googleapis.com/css?family=Lato:400,700,900,700italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Arvo:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+<style type="text/css" media="all">
+@import url("http://wpacouncil.org/modules/system/system.base.css?nxxrzn");
+@import url("http://wpacouncil.org/modules/system/system.menus.css?nxxrzn");
+@import url("http://wpacouncil.org/modules/system/system.messages.css?nxxrzn");
+@import url("http://wpacouncil.org/modules/system/system.theme.css?nxxrzn");
+</style>
+<style type="text/css" media="all">
+@import url("http://wpacouncil.org/modules/book/book.css?nxxrzn");
+@import url("http://wpacouncil.org/modules/comment/comment.css?nxxrzn");
+@import url("http://wpacouncil.org/modules/field/theme/field.css?nxxrzn");
+@import url("http://wpacouncil.org/sites/all/modules/mollom/mollom.css?nxxrzn");
+@import url("http://wpacouncil.org/modules/node/node.css?nxxrzn");
+@import url("http://wpacouncil.org/modules/poll/poll.css?nxxrzn");
+@import url("http://wpacouncil.org/modules/search/search.css?nxxrzn");
+@import url("http://wpacouncil.org/sites/all/modules/ubercart/uc_order/uc_order.css?nxxrzn");
+@import url("http://wpacouncil.org/sites/all/modules/ubercart/uc_product/uc_product.css?nxxrzn");
+@import url("http://wpacouncil.org/sites/all/modules/ubercart/uc_store/uc_store.css?nxxrzn");
+@import url("http://wpacouncil.org/modules/user/user.css?nxxrzn");
+@import url("http://wpacouncil.org/modules/forum/forum.css?nxxrzn");
+@import url("http://wpacouncil.org/sites/all/modules/views/css/views.css?nxxrzn");
+@import url("http://wpacouncil.org/sites/all/modules/ckeditor/css/ckeditor.css?nxxrzn");
+</style>
+<style type="text/css" media="all">
+@import url("http://wpacouncil.org/sites/all/modules/ctools/css/ctools.css?nxxrzn");
+</style>
+<style type="text/css" media="all">
+@import url("http://wpacouncil.org/sites/all/themes/professional_theme/style.css?nxxrzn");
+</style>
+<script type="text/javascript" src="http://wpacouncil.org/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://wpacouncil.org/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://wpacouncil.org/misc/drupal.js?nxxrzn"></script>
+<script type="text/javascript" src="http://wpacouncil.org/sites/all/themes/professional_theme/js/custom.js?nxxrzn"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"professional_theme","theme_token":"MgZ9-doychsOuoiLzflkS9SsDc7F8x5e-Uu-r0Ad9C0","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/professional_theme\/js\/custom.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"sites\/all\/modules\/ubercart\/uc_order\/uc_order.css":1,"sites\/all\/modules\/ubercart\/uc_product\/uc_product.css":1,"sites\/all\/modules\/ubercart\/uc_store\/uc_store.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/professional_theme\/style.css":1}}});
+//--><!]]>
+</script>
+<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body class="html not-front not-logged-in two-sidebars page-node page-node- page-node-9 node-type-page">
+    
+<div id="wrapper">
+  <header id="header" role="banner">
+     <div id="logo"><a href="/" title="Home"><img src="http://wpacouncil.org/files/wpa-logo-gray2_0.jpg"/></a></div>    <h1 id="site-title"><a href="/" title="Home">Council of Writing Program Administrators</a></h1>        <div class="clear"></div>
+	    <nav id="main-menu"  role="navigation">
+      <a class="nav-toggle" href="#">Navigation</a>
+      <div class="menu-navigation-container">
+        <ul class="menu"><li class="first leaf"><a href="/" title="">Home</a></li>
+<li class="expanded"><a href="/about" title="About the Council of Writing Program Administrators">About</a><ul class="menu"><li class="first expanded"><a href="/executive-board-members" title="CWPA Executive Board Members">Executive Board Members</a><ul class="menu"><li class="first leaf"><a href="/node/250" title="Past WPA Presidents">Past Presidents</a></li>
+<li class="last leaf"><a href="/node/2761" title="Past CWPA Executive Boards - 2000-2009">Past Exec Boards, 2000-2009</a></li>
+</ul></li>
+<li class="leaf"><a href="http://wpacouncil.org/bylaws" title="">Bylaws</a></li>
+<li class="expanded"><a href="/elections" title="Elections, Resolutions, and Other Votes by CWPA Members">Elections &amp; Resolutions</a><ul class="menu"><li class="first leaf"><a href="/cwpa-2016-executive-board-elections" title="">2016 Election for CWPA Executive Board</a></li>
+<li class="leaf"><a href="http://wpacouncil.org/cwpa-2015-executive-board-elections" title="">2015 Election for CWPA Executive Board</a></li>
+<li class="leaf"><a href="/cwpa-2014-executive-board-elections" title="2014 Election for CWPA Executive Board">2014 Election for CWPA Executive Board</a></li>
+<li class="leaf"><a href="/cwpa-2013-executive-board-elections" title="2013 Election for CWPA Executive Board">2013 Election for CWPA Executive Board</a></li>
+<li class="last leaf"><a href="/cwpa-2011-2012-executive-board-elections" title="2012 Election for CWPA Executive Board">2012 Election for CWPA Executive Board</a></li>
+</ul></li>
+<li class="leaf"><a href="/grants/index.html" title="Grants and Awards">Grants</a></li>
+<li class="leaf"><a href="/awards" title="Awards">Awards</a></li>
+<li class="leaf"><a href="/forms" title="Forms">Forms</a></li>
+<li class="leaf"><a href="/newsletters" title="Newsletters">Newsletters</a></li>
+<li class="leaf"><a href="/special-recognition" title="Recognizing and Remembering WPAs and Friends">Special Recognition</a></li>
+<li class="last leaf"><a href="/committee-assignments" title="CWPA Committee Members">Committees</a></li>
+</ul></li>
+<li class="expanded"><a href="/journal/index.html" title="WPA Journal">Journal</a><ul class="menu"><li class="first leaf"><a href="/node/1812" title="WPA Journal: Topics, Editors, Contact">About WPA Journal</a></li>
+<li class="collapsed"><a href="/info-for-authors" title="Information for Authors">Info for Authors</a></li>
+<li class="leaf"><a href="/journalarchives" title="Archives of WPA: Writing Program Administration">Issue Archives</a></li>
+<li class="leaf"><a href="/subscribe-journal" title="Individual Journal Subscriptions">Individual Subscriptions</a></li>
+<li class="last leaf"><a href="/library-membership" title="Library One-Year Subscription to the WPA Journal">Library Subscriptions</a></li>
+</ul></li>
+<li class="expanded"><a href="/membership/index.html" title="Membership">Membership</a><ul class="menu"><li class="first leaf"><a href="/join-renew" title="Join or Renew">Join or Renew</a></li>
+<li class="leaf"><a href="/change-address" title="To Change Your WPA Journal Shipping Address">Change Your Address</a></li>
+<li class="last leaf"><a href="/node/1611" title="Review Your Membership Order History">Order History</a></li>
+</ul></li>
+<li class="expanded active-trail"><a href="/resources" title="" class="active-trail">Resources</a><ul class="menu"><li class="first expanded"><a href="/affiliates" title="CWPA Affiliate Organizations">Affiliates</a><ul class="menu"><li class="first leaf"><a href="/affiliate-grants" title="Affiliate Grants">Affiliate Grants</a></li>
+<li class="leaf"><a href="/affiliate-guidelines" title="Affiliate Guidelines">Affiliate Guidelines</a></li>
+<li class="last leaf"><a href="/affiliate-application-form" title="">Affiliate Application Form</a></li>
+</ul></li>
+<li class="leaf"><a href="/assessment-gallery" title="Assessment Gallery and Resources - Assessment Models and Communication Strategies">Assessment</a></li>
+<li class="leaf"><a href="/consultant" title="WPA Consultant-Evaluator Service for Writing Programs">Consultant-Evaluator Service</a></li>
+<li class="collapsed"><a href="/jobs-cfps" title="Jobs and CFPs">Jobs and CFPs</a></li>
+<li class="leaf"><a href="/rcjournals" title="Journals in Rhetoric and Composition">Journals in Rhet/Comp</a></li>
+<li class="leaf"><a href="/mentoring-project" title="The CWPA Mentoring Project">Mentoring</a></li>
+<li class="leaf"><a href="/nma" title="WPA Network for Media Action">Network for Media Action</a></li>
+<li class="expanded active-trail"><a href="/positions/index.html" title="WPA Position Statements and Resolutions" class="active-trail">Statements &amp; Resolutions</a><ul class="menu"><li class="first leaf"><a href="/framework" title="Framework for Success in Postsecondary Writing">Framework for Success in Postsecondary Writing</a></li>
+<li class="leaf"><a href="/positions/intellectualwork.html" title="Evaluating the Intellectual Work of Writing Administration">Intellectual Work</a></li>
+<li class="leaf"><a href="/node/1393" title="Report: WPA Taskforce on Internationalization">Internationalization</a></li>
+<li class="leaf"><a href="/positions/outcomes.html" title="WPA Outcomes Statement for First-Year Composition, approved July 17, 2014">Outcomes for FYC</a></li>
+<li class="leaf active-trail"><a href="/positions/WPAplagiarism.pdf" title="Defining and Avoiding Plagiarism: The WPA Statement on Best Practices" class="active-trail active">Plagiarism</a></li>
+<li class="leaf"><a href="/positions/portlandres.html" title="&quot;The Portland Resolution:&quot; Guidelines for Writing Program Administrator Positions">Portland Resolution</a></li>
+<li class="last leaf"><a href="/cwpa-statement-pre-college-credit" title="CWPA Position Statement on Pre-College Credit for Writing">Pre-College Credit for Writing</a></li>
+</ul></li>
+<li class="leaf"><a href="/conference-proceedings" title="CWPA Conference Proceedings">WPA Conference Proceedings</a></li>
+<li class="leaf"><a href="/praxis-allies-wpa-game" title="Praxis and Allies: The WPA Game">WPA Game</a></li>
+<li class="leaf"><a href="/writingprograms/index.html" title="Writing Program Websites">Writing Program Websites</a></li>
+<li class="leaf"><a href="http://comppile.org/search/comppile_main_search.php" title="">CompPile</a></li>
+<li class="last leaf"><a href="/wpa-go" title="WPA-GO">WPA-GO</a></li>
+</ul></li>
+<li class="expanded"><a href="/wpa-events" title="Events">Events</a><ul class="menu"><li class="first expanded"><a href="/wpa-conference" title="WPA Conference">Conferences</a><ul class="menu"><li class="first leaf"><a href="http://www.carolinaswpa.org/cwpa2016/" title="">CWPA 2016 Website and Registration</a></li>
+<li class="leaf"><a href="http://wpacouncil.org/node/7032" title="">CWPA 2016 CFP</a></li>
+<li class="leaf"><a href="http://wpacouncil.org/cwpa-2016-proposal-instructions" title="">CWPA 2016: Submit a Proposal</a></li>
+<li class="expanded"><a href="/wpa-past-conferences" title="Past Conferences">Past Conferences</a><ul class="menu"><li class="first leaf"><a href="https://secure.meetingsystems.com/WPA/index.htm" title="Learn more about the CWPA 2015 Conference in Boise, ID">CWPA 2015 Conference Website</a></li>
+<li class="leaf"><a href="/cwpa-2015-cfp" title="">CWPA 2015 Conference CFP</a></li>
+<li class="leaf"><a href="/cwpa-2015-proposal-instructions" title="Submit Your Proposal to CWPA 2015">CWPA 2015 Conference--Submit a Proposal</a></li>
+<li class="leaf"><a href="/CWPA-conference-2014-CFP" title="CWPA 2014, Normal, Illinois: Call for Proposals">WPA 2014 Conference CFP</a></li>
+<li class="leaf"><a href="/minority-workshop-grant" title="WPA Fund for the Support of Minority Program Administrators - Workshop Grant">WPA Fund for Support of Minority Administrators - Workshop Grant</a></li>
+<li class="leaf"><a href="/node/4828" title="CWPA 2013 Conference Program">CWPA 2013 Conference Program</a></li>
+<li class="last leaf"><a href="/wpa-2012-conference" title="2012 Writing Program Administrators Conference">WPA 2012 Conference</a></li>
+</ul></li>
+<li class="last leaf"><a href="http://wpacouncil.org/host-the-conference" title="">Call for hosting CWPA Conferences</a></li>
+</ul></li>
+<li class="leaf"><a href="/mla-receptions" title="MLA Receptions">MLA Receptions</a></li>
+<li class="last leaf"><a href="http://wpacouncil.org/cccc-2016-reception" title="">CCCC Reception</a></li>
+</ul></li>
+<li class="expanded"><a href="/support" title="Support">Support</a><ul class="menu"><li class="first leaf"><a href="/site-overview" title="A Brief Overview of  the WPA Website">Site Overview</a></li>
+<li class="leaf"><a href="/contact" title="">Contact Us</a></li>
+<li class="leaf"><a href="/additional-contact-info" title="Additional Contact Information">Additional Contact Info</a></li>
+<li class="leaf"><a href="/wpa-l" title="The WPA-L Listserv">WPA-L</a></li>
+<li class="last leaf"><a href="/gwpa-l" title="Graduate WPA Listserve: GWPA-L">GWPA-L</a></li>
+</ul></li>
+<li class="last leaf"><a href="/user/login" title="Create an account or login using an existing one">Login/Register</a></li>
+</ul>      </div>
+      <div class="clear"></div>
+    </nav>
+	<!-- end main-menu -->
+  </header>
+
+
+  <div id="container">
+
+    
+
+   
+    <div class="content-sidebar-wrap">
+
+    <div id="content">
+      <div id="breadcrumbs"><h2 class="element-invisible">You are here</h2><nav class="breadcrumb"><a href="/">Home</a> » <a href="/resources" title="">Resources</a> » <a href="/positions/index.html" title="WPA Position Statements and Resolutions">Statements &amp; Resolutions</a> » Defining and Avoiding Plagiarism: The WPA Statement on Best Practices</nav></div>      <section id="post-content" role="main">
+                                <h1 class="page-title">Defining and Avoiding Plagiarism: The WPA Statement on Best Practices</h1>                                        <div class="region region-content">
+  <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+                            
+      
+    
+  <div class="content node-page">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>
+	<em><a href="http://wpacouncil.org/files/wpa-plagiarism-statement.pdf">Download a PDF version</a> of this document.</em></p>
+<p>
+	Plagiarism has always concerned teachers and administrators, who want students’ work to repre­sent their own efforts and to reflect the outcomes of their learning. However, with the advent of the Internet and easy access to almost limitless written material on every conceivable topic, suspi­cion of student plagiarism has begun to affect teachers at all levels, at times diverting them from the work of developing students’ writing, reading, and critical thinking abilities.</p>
+<p>
+	This statement responds to the growing educational concerns about plagiarism in four ways: by defining plagiarism; by suggesting some of the causes of plagiarism; by proposing a set of respon­sibilities (for students, teachers, and administrators) to address the problem of plagiarism; and by recommending a set of practices for teaching and learning that can significantly reduce the likeli­hood of plagiarism. The statement is intended to provide helpful suggestions and clarifications so that instructors, administrators, and students can work together more effectively in support of excellence in teaching and learning.</p>
+<!--break-->
+<p>
+	<b>What Is Plagiarism?</b></p>
+<p>
+	In instructional settings, plagiarism is a multifaceted and ethically complex problem. However, if any definition of plagiarism is to be helpful to administrators, faculty, and students, it needs to be as simple and direct as possible within the context for which it is intended.</p>
+<p>
+	<i><b>Definition: </b>In an instructional setting, plagiarism occurs when a writer deliberately uses someone else’s language, ideas, or other original (not common-knowledge) material without acknowledg­ing its source.</i></p>
+<p>
+	This definition applies to texts published in print or on-line, to manuscripts, and to the work of other student writers.</p>
+<p>
+	Most current discussions of plagiarism fail to distinguish between:</p>
+<ol><li>
+		submitting someone else’s text as one’s own or attempting to blur the line between one’s own ideas or words and those borrowed from another source, and</li>
+	<li>
+		carelessly or inadequately citing ideas and words borrowed from another source.</li>
+</ol><p>
+	Such discussions conflate <i>plagiarism </i>with the <i>misuse of sources.</i></p>
+<p>
+	Ethical writers make every effort to acknowledge sources fully and appropriately in accordance with the contexts and genres of their writing. A student who attempts (even if clumsily) to identify and credit his or her source, but who misuses a specific citation format or incorrectly uses quota­tion marks or other forms of identifying material taken from other sources, has not plagiarized. Instead, such a student should be considered to have failed to cite and document sources appropri­ately.</p>
+<p>
+	<b>What are the Causes of Plagiarism and the Failure to Use and Document Sources Appropri­ately?</b></p>
+<p>
+	Students who are fully aware that their actions constitute plagiarism—for example, copying pub­lished information into a paper without source attribution for the purpose of claiming the informa­tion as their own, or turning in material written by another student—are guilty of academic mis­conduct. Although no excuse will lessen the breach of ethical conduct that such behavior repre­sents, understanding why students plagiarize can help teachers to consider how to reduce the op­portunities for plagiarism in their classrooms.</p>
+<ul><li>
+		<p>
+			Students may fear failure or fear taking risks in their own work.</p>
+	</li>
+	<li>
+		<p>
+			Students may have poor time-management skills or they may plan poorly for the time and effort required for research-based writing, and believe they have no choice but to plagia­rize.</p>
+	</li>
+	<li>
+		<p>
+			Students may view the course, the assignment, the conventions of academic documenta­tion, or the consequences of cheating as unimportant.</p>
+	</li>
+	<li>
+		<p>
+			Teachers may present students with assignments so generic or unparticularized that stu­dents may believe they are justified in looking for canned responses.</p>
+	</li>
+	<li>
+		<p>
+			Instructors and institutions may fail to report cheating when it does occur, or may not enforce appropriate penalties.</p>
+	</li>
+</ul><p>
+	Students are not guilty of plagiarism when they try in good faith to acknowledge others’ work but fail to do so accurately or fully. These failures are largely the result of failures in prior teaching and learning: students lack the knowledge of and ability to use the conventions of authorial attri­bution. The following conditions and practices may result in texts that falsely appear to represent plagiarism as we have defined it:</p>
+<ul><li>
+		<p>
+			Students may not know how to integrate the ideas of others and document the sources of those ideas appropriately in their texts.</p>
+	</li>
+	<li>
+		<p>
+			Students will make mistakes as they learn how to integrate others’ words or ideas into their own work because error is a natural part of learning.</p>
+	</li>
+	<li>
+		<p>
+			Students may not know how to take careful and fully documented notes during their re­search.</p>
+	</li>
+	<li>
+		<p>
+			Academicians and scholars may define plagiarism differently or more stringently than have instructors or administrators in students’ earlier education or in other writing situations.</p>
+	</li>
+	<li>
+		<p>
+			College instructors may assume that students have already learned appropriate academic conventions of research and documentation.</p>
+	</li>
+	<li>
+		<p>
+			College instructors may not support students as they attempt to learn how to research and document sources; instead, instructors may assign writing that requires research and expect its appropriate documentation, yet fail to appreciate the difficulty of novice academic writ­ers to execute these tasks successfully.</p>
+	</li>
+	<li>
+		<p>
+			Students from other cultures may not be familiar with the conventions governing attribu­tion and plagiarism in American colleges and universities.</p>
+	</li>
+	<li>
+		<p>
+			In some settings, using other people’s words or ideas as their own is an acceptable practice for writers of certain kinds of texts (for example, organizational documents), making the concepts of plagiarism and documentation less clear cut than academics often acknowledge and thereby confusing students who have not learned that the conventions of source attri­bution vary in different contexts.</p>
+	</li>
+</ul><p>
+	<b>What are our Shared Responsibilities?</b></p>
+<p>
+	When assignments are highly generic and not classroom-specific, when there is no instruction on plagiarism and appropriate source attribution, and when students are not led through the iterative processes of writing and revising, teachers often find themselves playing an adversarial role as “plagiarism police” instead of a coaching role as educators. Just as students must live up to their responsibility to behave ethically and honestly as learners, teachers must recognize that they can encourage or discourage plagiarism not just by policy and admonition, but also in the way they structure assignments and in the processes they use to help students define and gain interest in topics developed for papers and projects.</p>
+<p>
+	<b>Students </b>should understand research assignments as opportunities for genuine and rigorous in­quiry and learning. Such an understanding involves:</p>
+<ul><li>
+		<p>
+			Assembling and analyzing a set of sources that they have themselves determined are relevant to the issues they are investigating;</p>
+	</li>
+	<li>
+		<p>
+			Acknowledging clearly when and how they are drawing on the ideas or phrasings of others;</p>
+	</li>
+	<li>
+		<p>
+			Learning the conventions for citing documents and acknowledging sources appropriate to the field they are studying;</p>
+	</li>
+	<li>
+		<p>
+			Consulting their instructors when they are unsure about how to acknowledge the contributions of others to their thought and writing.</p>
+	</li>
+</ul><p>
+	<b>Faculty </b>need to design contexts and assignments for learning that encourage students not simply to recycle information but to investigate and analyze its sources. This includes:</p>
+<ul><li>
+		<p>
+			Building support for researched writing (such as the analysis of models, individual/group con­ferences, or peer review) into course designs;</p>
+	</li>
+	<li>
+		<p>
+			Stating in writing their policies and expectations for documenting sources and avoiding plagia­rism;</p>
+	</li>
+	<li>
+		<p>
+			Teaching students the conventions for citing documents and acknowledging sources in their field, and allowing students to practice these skills;</p>
+	</li>
+	<li>
+		<p>
+			Avoiding the use of recycled or formulaic assignments that may invite stock or plagiarized re­sponses;</p>
+	</li>
+	<li>
+		<p>
+			Engaging students in the process of writing, which produces materials such as notes, drafts, and revisions that are difficult to plagiarize;</p>
+	</li>
+	<li>
+		<p>
+			Discussing problems students may encounter in documenting and analyzing sources, and of­fering strategies for avoiding or solving those problems;</p>
+	</li>
+	<li>
+		<p>
+			Discussing papers suspected of plagiarism with the students who have turned them in, to de­termine if the papers are the result of a deliberate intent to deceive;</p>
+	</li>
+	<li>
+		<p>
+			Reporting possible cases of plagiarism to appropriate administrators or review boards.</p>
+	</li>
+</ul><p>
+	<b>Administrators </b>need to foster a program- or campus-wide climate that values academic honesty. This involves:</p>
+<ul><li>
+		<p>
+			Publicizing policies and expectations for conducting ethical research, as well as procedures for investigating possible cases of academic dishonesty and its penalties;</p>
+	</li>
+	<li>
+		<p>
+			Providing support services (for example, writing centers or Web pages) for students who have questions about how to cite sources;</p>
+	</li>
+	<li>
+		<p>
+			Supporting faculty and student discussions of issues concerning academic honesty, research ethics, and plagiarism;</p>
+	</li>
+	<li>
+		<p>
+			Recognizing and improving upon working conditions, such as high teacher-student ratios, that reduce opportunities for more individualized instruction and increase the need to handle papers and assignments too quickly and mechanically;</p>
+	</li>
+	<li>
+		<p>
+			Providing faculty development opportunities for instructors to reflect on and, if appropriate, change the ways they work with writing in their courses.</p>
+	</li>
+</ul><p>
+	<br /><b>Best Practices</b></p>
+<p>
+	College writing is a <i>process </i>of goal setting, writing, giving and using feedback, revising, and ed­iting. Effective assignments construct specific writing situations and build in ample room for re­sponse and revision. There is no guarantee that, if adopted, the strategies listed below will elimi­nate plagiarism; but in supporting students throughout their research process, these strategies make plagiarism both difficult and unnecessary.</p>
+<p>
+	<b>1. Explain Plagiarism and Develop Clear Policies</b></p>
+<ul><li>
+		<p>
+			<b>Talk about the underlying implications of plagiarism. </b>Remind students that the goal of re­search is to engage, through writing, in a purposeful, scholarly discussion of issues that are sometimes passed over in daily life. Understanding, augmenting, engaging in dialogue with, and challenging the work of others are part of becoming an effective citizen in a complex society. Plagiarism does not simply devalue the institution and the degree it offers; it hurts the inquirer, who has avoided thinking independently and has lost the opportunity to participate in broader social conversations.</p>
+	</li>
+</ul><ul><li>
+		<p>
+			<b>Include in your syllabus a policy for using sources, and discuss it in your course. </b>Define a policy that clearly explains the consequences of both plagiarism (such as turning in a paper known to be written by someone else) and the misuse or inaccurate citation of sources.</p>
+	</li>
+</ul><ul><li>
+		<p>
+			<b>If your university does not already have one, establish an honor code to which all stu­dents subscribe; a judicial board to hear plagiarism cases; or a departmental ombud­sperson to hear cases brought between students and instructors.</b></p>
+	</li>
+</ul><p>
+	<b>2. Improve the Design and Sequence of Assignments</b></p>
+<ul><li>
+		<p>
+			<b>Design assignments that require students to explore a subject in depth. </b>Research questions and assignment topics should be based on principles of inquiry and on the genuine need to dis­cover something about the topic, and should present that topic to an audience in the form of an exploration or an argument.</p>
+	</li>
+</ul><ul><li>
+		<p>
+			<b>Start building possible topics early. </b>Good writing reflects a thorough understanding of the topic being addressed or researched. Giving students time to explore their topics slowly and helping them to narrow their focus from broad ideas to specific research questions will person­alize their research and provide evidence of their ongoing investigations</p>
+	</li>
+</ul><ul><li>
+		<p>
+			<b>Consider establishing a course theme, and then allow students to define specific questions about that theme so that they become engaged in learning new ideas and begin to own their research. </b>A course theme (like “literacy” or “popular culture”) allows students and in­structor to develop expertise and to support each other as they read, write, and engage in their research. Grounding the theme in a local context (such as the campus, or the neighborhood or city where the campus is located) can provide greater relevance to students’ lives. Once stu­dents have defined a topic within the course theme, ask them to reflect frequently on their choice of topic: about what they already know about the topic when they begin their research; about what new ideas they are learning along the way; and about what new subjects for re­search they are discovering.</p>
+	</li>
+</ul><ul><li>
+		<p>
+			<b>Develop schedules for students that both allow them time to explore and support them as they work toward defined topics. </b>As researchers learn more about their subjects, they typi­cally discover new, unforeseen questions and interests to explore. However, student research­ers do not have unlimited time for their work—at some point, they must choose a focus for their papers. Conferences with students (sometimes held in the library or computer resource center) are invaluable for enabling them to refine their focus and begin their inquiry.</p>
+	</li>
+</ul><ul><li>
+		<p>
+			<b>Support each step of the research process. </b>Students often have little experience planning and conducting research. Using planning guides, in-class activities, and portfolios, instructors should “stage” students’ work and provide support at each stage—from invention to drafting, through revision and polishing. Collecting interim materials (such as annotated photocopies) helps break the research assignment down into elements of the research process while providing instructors with evidence of students’ original work. Building “low-stakes” writing into the research process, such as reflective progress reports, allows instructors to coach students more effectively while monitoring their progress.</p>
+	</li>
+</ul><ul><li>
+		<p>
+			<b>Make the research process, and technology used for it, visible. </b>Ask your students to con­sider how various technologies—computers, fax machines, photocopiers, e-mail—affect the way information is gathered and synthesized, and what effect these technologies may have on plagiarism.</p>
+	</li>
+</ul><ul><li>
+		<p>
+			<b>Attend to conventions of different genres of writing. </b>As people who read and write aca­demic work regularly, instructors are sensitive to differences in conventions across different disciplines and, sometimes, within disciplines. However, students might not be as aware of these differences. Plan activities—like close examinations of academic readings—that ask stu­dents to analyze and reflect on the conventions in different disciplines.</p>
+	</li>
+</ul><p>
+	<b>3. Attend to Sources and the Use of Reading</b></p>
+<ul><li>
+		<p>
+			<b>Ask students to draw on and document a variety of sources. </b>Build into your assignments additional sources, such as systematic observation, interviews, simple surveys, or other data­gathering methods. Incorporating a variety of sources can help students develop ways of gath­ering, assessing, reading, and using different kinds of information, and can make for a livelier, more unique paper.</p>
+	</li>
+</ul><ul><li>
+		<p>
+			<b>Consider conventions. </b>Appropriate use of citations depends on students’ familiarity with the conventions of the genre(s) they are using for writing. Design activities that help students to become familiar with these conventions and make informed choices about when and where to employ them.</p>
+	</li>
+</ul><ul><li>
+		<p>
+			<b>Show students how to evaluate their sources. </b>Provide opportunities for students to discuss the quality of the content and context of their sources, through class discussions, electronic course management programs or Internet chat spaces, or reflective assignments. Discuss with students how their sources will enable them to support their argument or document their re­search.</p>
+	</li>
+</ul><ul><li>
+		<p>
+			<b>Focus on reading. </b>Successful reading is as important to thoughtful research essays as is suc­cessful writing. Develop reading-related heuristics and activities that will help students to read carefully and to think about how or whether to use that reading in their research projects.</p>
+	</li>
+</ul><p>
+	<b>4. Work on Plagiarism Responsibly</b></p>
+<ul><li>
+		<p>
+			<b>Distinguish between misuse of sources and plagiarism. </b>If students have misused sources, they probably do not understand how to use them correctly. If this is the case, work with stu­dents so that they <i>understand </i>how to incorporate and cite sources correctly. Ask them to re­write the sections where sources have been misused.</p>
+	</li>
+	<li>
+		<p>
+			<b>Ask students for documentation. </b>If a student’s work raises suspicions, talk with him or her about your concerns. Ask students to show you their in-process work (such as sources, sum­maries, and drafts) and walk you through their research process, describing how it led to the production of their draft. If they are unable to do this, discuss with them the consequences of plagiarism described in your syllabus (and, perhaps, by your institution). If you have talked with a student and want to pursue your own investigation of his or her work, turn to sources that the student is likely to have used and look for evidence of replication.</p>
+	</li>
+	<li>
+		<p>
+			<b>Use plagiarism detection services cautiously. </b>Although such services may be tempting, they are not always reliable. Furthermore, their availability should never be used to justify the avoidance of responsible teaching methods such as those described in this document.</p>
+	</li>
+</ul><p>
+	<b>5. Take Appropriate Disciplinary Actions</b></p>
+<ul><li>
+		<p>
+			<b>Pay attention to institutional guidelines. </b>Many institutions have clearly defined procedures for pursuing claims of academic dishonesty. Be sure you have read and understood these be­fore you take any action.</p>
+	</li>
+	<li>
+		<p>
+			<b>Consider your goal. </b>If a student has plagiarized, consider what the student should take away from the experience. In some cases, a failing grade on the paper, a failure in the course, aca­demic probation, or even expulsion might achieve those goals. In other cases, recreating the entire research process, from start to finish, might be equally effective.</p>
+	</li>
+</ul><p>
+	<i>Council of Writing Program Administrators, January, 2003</i></p>
+<br /><hr /><br /><p>
+	<a href="http://creativecommons.org/licenses/by-nd/3.0/us/" rel="license"><img alt="Creative Commons License" src="http://i.creativecommons.org/l/by-nd/3.0/us/88x31.png" style="border-width: 0pt;" /></a><br />
+	This work is licensed under a <a href="http://creativecommons.org/licenses/by-nd/3.0/us/" rel="license">Creative Commons Attribution-No Derivative Works 3.0 United States License</a>.</p>
+<br /><p>
+	The Council of Writing Program Administrators is a national association of college and university faculty with professional responsibilities for (or interests in) directing writing programs.</p>
+</div></div></div>  </div>
+
+      <footer>
+          </footer>
+  
+    </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+      </section> <!-- /#main -->
+    </div>
+
+          <aside id="sidebar-first" role="complementary">
+        <div class="region region-sidebar-first">
+  <div id="block-system-navigation" class="block block-system block-menu">
+
+      
+  <div class="content">
+    <ul class="menu"><li class="first last leaf"><a href="/cart" title="">View Cart</a></li>
+</ul>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-search-form" class="block block-search">
+
+      
+  <div class="content">
+    <form action="/positions/WPAplagiarism.pdf" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-5CBT3pDHrp7De_nFhP0Tc1QV-SPkDdQ4MWdqIthaufE" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+  
+</div> <!-- /.block -->
+<div id="block-views-news-announcements-block-1" class="block block-views">
+
+        <h2 >News &amp; Announcements</h2>
+    
+  <div class="content">
+    <div class="view view-news-announcements view-id-news_announcements view-display-id-block_1 view-dom-id-13d38bae98d1d111a27da1125f2a8957">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/node/7402">Availability for meeting to discuss a Consultant-Evaluator visit</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/node/7401">2016-17 Vice Chair Statements: Mandy Macklin and Sarah Snyder</a></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/node/7400">Northeastern Univ. Writing Program - Teaching Professor</a></span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/node/7393">Call for Applications: 2016 CWPA WPA-GO Graduate Student Travel Awards (due 6/10)</a></span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/node/7385">2016-17 Master&#039;s Student Representative Applications</a></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/news">
+    more  </a>
+</div>
+  
+  
+      <div class="feed-icon">
+      <a href="http://wpacouncil.org/news.xml" class="feed-icon" title="Subscribe to Front page feed"><img src="http://wpacouncil.org/misc/feed.png" width="16" height="16" alt="Subscribe to Front page feed" /></a>    </div>
+  
+</div>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+      </aside>  <!-- /#sidebar-first -->
+    
+    </div>
+
+          <aside id="sidebar-second" role="complementary">
+        <div class="region region-sidebar-second">
+  <div id="block-block-30" class="block block-block">
+
+        <h2 >2014 CWPA Best Book Award</h2>
+    
+  <div class="content">
+    <p><a href="http://wpacouncil.org/node/7019">http://wpacouncil.org/node/7019</a></p>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+      </aside>  <!-- /#sidebar-first -->
+    
+  <div class="clear"></div>
+
+    </div>
+
+
+
+  <div id="footer">
+          <div id="footer-area" class="clearfix">
+                <div class="column"><div class="region region-footer-first">
+  <div id="block-block-28" class="block block-block">
+
+      
+  <div class="content">
+    <p>© 2005-2014 by the Council of Writing Program Administrators. Content of comments, blog, and forum postings is copyrighted to the individual.</p>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+</div>
+                        <div class="column"><div class="region region-footer-second">
+  <div id="block-block-29" class="block block-block">
+
+      
+  <div class="content">
+    <p>This site is maintained by Charlie Lowe and Timothy Dougherty.</p>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+</div>
+                        <div class="column"><div class="region region-footer-third">
+  <div id="block-node-syndicate" class="block block-node">
+
+      
+  <div class="content">
+    <a href="/node/feed" class="feed-icon" title="Subscribe to Syndicate"><img src="http://wpacouncil.org/misc/feed.png" width="16" height="16" alt="Subscribe to Syndicate" /></a>  </div>
+  
+</div> <!-- /.block -->
+</div>
+ <!-- /.region -->
+</div>
+              </div>
+    
+    <div id="copyright">
+    <!--Remove  -->
+        <!--Remove Theme Credit by Setting -->
+        <div class="clear"></div>
+    </div>
+  </div>
+</div>
+  </body>
+</html>
